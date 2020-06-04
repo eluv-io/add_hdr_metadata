@@ -1,0 +1,14 @@
+{
+  "name": "add_hdr_metadata",
+  "version": "1.0.0",
+  "dependencies": {
+    "elv-client-js": "git+https://github.com/eluv-io/elv-client-js.git#develop"
+  },
+  "description": "",
+  "main": "add_hdr_metadata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
