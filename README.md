@@ -1,5 +1,5 @@
 # add_hdr_metadata.js
-Adds HDR info to a production master's metadata for one file within master
+Adds HDR info to a production master's metadata for one file within the master
 
 **Installation:**
 ```
