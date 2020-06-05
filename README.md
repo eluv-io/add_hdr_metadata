@@ -3,7 +3,7 @@ Adds HDR info to a production master's metadata for one file within the master
 
 **Installation:**
 ```
-git clone https://github.com/qluvio/add_hdr_metadata
+git clone https://github.com/eluv-io/add_hdr_metadata
 cd add_hdr_metadata
 npm install
 ```
