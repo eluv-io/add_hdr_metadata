@@ -68,6 +68,13 @@ const AddHDRMetadata = async (masterLibId, masterObjectId, fileName, hdrJson) =>
   console.log("");
   console.log("Done with AddHDRMetadata call.");
   console.log("");
+  console.log("Added the following HDR metadata for " + fileName + ":");
+  console.log("");
+  console.log(JSON.stringify(hdrJson, null, 2));
+  console.log("");
+  console.log("New master hash to use when creating mezzanine: " + result.hash);
+
+  console.log("");
 };
 
 const masterLibId = process.argv[2];
