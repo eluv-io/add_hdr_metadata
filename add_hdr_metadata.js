@@ -72,7 +72,7 @@ const AddHDRMetadata = async (masterLibId, masterObjectId, fileName, hdrJson) =>
   console.log("");
   console.log(JSON.stringify(hdrJson, null, 2));
   console.log("");
-  console.log("New master hash to use when creating mezzanine: " + result.hash);
+  console.log("New master hash to use when creating mezzanine: " + response.hash);
 
   console.log("");
 };
