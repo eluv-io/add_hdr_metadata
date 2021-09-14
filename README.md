@@ -25,3 +25,9 @@ node add_hdr_metadata.js MASTER_LIB_ID MASTER_OBJECT_ID FILENAME PATH_TO_HDR_JSO
   "max_cll": "1514,172"
 }
 ```
+
+**Worksheet for constructing JSON file contents**
+
+The spreadsheet linked below shows how to convert HDR10 values into HEVC values and how they are assembled into the JSON metadata (make a copy of the spreadsheet if you want to plug in your own values)
+
+https://docs.google.com/spreadsheets/d/1hXVGVnDU7oSjGsaQFVG1zQGgQCM_D75rkM8Z1xVZR8A/edit?usp=sharing
