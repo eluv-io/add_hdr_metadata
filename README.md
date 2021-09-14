@@ -13,7 +13,7 @@ npm install
 
 ```
 export PRIVATE_KEY=(your_fabric_private_key)
-export FABRIC_CONFIG_URL=(url) # e.g. https://main.net955210.contentfabric.io/config for the Eluvio test network
+export FABRIC_CONFIG_URL=(url) # e.g. https://demov3.net955210.contentfabric.io/config for the Eluvio demo network
 
 node add_hdr_metadata.js MASTER_LIB_ID MASTER_OBJECT_ID FILENAME PATH_TO_HDR_JSON_FILE
 ```
